@@ -1,3 +1,3 @@
 ! wget https://github.com/cybercos/xrdbg/blob/main/xrdbg.sh &> /dev/null 
-! chmod +x RDP.sh 
-! ./RDP.sh
+! chmod +x xrdbg.sh
+! ./xrdbg.sh
