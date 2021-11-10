@@ -1,3 +1,5 @@
 ! wget https://raw.githubusercontent.com/cybercos/xrdbg/main/xrdbg.sh &> /dev/null 
 ! chmod +x xrdbg.sh
 ! ./xrdbg.sh
+
+#https://colab.research.google.com/drive/1eUqiKWgA-YLAizg5x_qg_XEJ9EwW1rS0#scrollTo=GlqstrB926Lt
