@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "CyberCos Installing RDP Be Patience... " >&2
+printf "CyberCos Installing UR RDB ... " >&2
 {
 sudo useradd -m CyberCos
 sudo adduser CyberCos sudo
