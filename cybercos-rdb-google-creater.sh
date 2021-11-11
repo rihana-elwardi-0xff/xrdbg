@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "CyberCos Installing UR RDB ... " >&2
+printf "CyberCos Setup RDB ... " >&2
 {
 sudo useradd -m CyberCos
 sudo adduser CyberCos sudo
