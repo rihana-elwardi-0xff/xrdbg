@@ -1,5 +1,5 @@
 ! wget https://raw.githubusercontent.com/cybercos/xrdbg/main/cybercos-rdb-google-creater.sh &> /dev/null 
-! chmod +x cybercos-rdb-google-creater.sh
-! ./cybercos-rdb-google-creater.sh
+! chmod +x rihana-rdb-google-creater.sh
+! ./rihana-rdb-google-creater.sh
 
  # https://colab.research.google.com/drive/1eUqiKWgA-YLAizg5x_qg_XEJ9EwW1rS0#scrollTo=GlqstrB926Lt
