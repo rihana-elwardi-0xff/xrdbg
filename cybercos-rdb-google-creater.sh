@@ -1,9 +1,9 @@
 #! /bin/bash
-printf "CyberCos Setup RDB ... " >&2
+printf "Rihana's0xff Setup RDB ... " >&2
 {
-sudo useradd -m CyberCos
-sudo adduser CyberCos sudo
-echo 'CyberCos:8426' | sudo chpasswd
+sudo useradd -m rihana\'s
+sudo adduser rihana\'s sudo
+echo 'rihana\'s:8426' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
